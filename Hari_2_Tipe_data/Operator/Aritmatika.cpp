@@ -7,7 +7,6 @@ int main(){
     // int hasil;
     int x = 3 , y = 2 , hasil;
     float hasil_float;
-
     // penjumlahan
     hasil = x + y;
     cout << "Hasil tambah dari " << x << " + " << y << " = " << hasil << endl;
@@ -25,5 +24,15 @@ int main(){
     // modulus (sisi dari pembagian)
     hasil = x % y;
     cout << "Hasil tambah dari " << x << " % " << y << " = " << hasil << endl;
+
+    // incremnet
+    int z = 10000;
+    z = 1 ;
+    z = z + 1;
+    // tambahan nilai z dengan 1 ;
+    // z = z + 1;
+    z++; // 10002;
+    z--;
+
     return 0;
 }
