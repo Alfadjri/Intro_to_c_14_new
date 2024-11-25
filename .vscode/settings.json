@@ -4,6 +4,7 @@
         "*.toc": "c",
         "iostream": "cpp",
         "ostream": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "unordered_map": "cpp"
     }
 }
