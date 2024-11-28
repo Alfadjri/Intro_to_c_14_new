@@ -21,6 +21,7 @@ int tambah(int a , int b){
 
 int main(){
     // inisilaisasi 
+    // unordered_map simpel : data struktur atau local storage yang tidak terurut
     unordered_map<string , int> hash_map;
 
     // add atau create
