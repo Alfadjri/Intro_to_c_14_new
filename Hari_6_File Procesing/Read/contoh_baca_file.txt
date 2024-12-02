@@ -1,0 +1,5 @@
+ini pesan rahasaia yang bisa di baca oleh program c
+nama : Alfadjri
+age : 24
+tugas : Maestro C
+gaji : 7.000.0000
